@@ -1,0 +1,17 @@
+{
+  "name": "zabbix-bot",
+  "version": "1.0.0",
+  "description": "Telegram Bot for Zabbix Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zabbix",
+    "telegram",
+    "bot",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
